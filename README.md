@@ -1,4 +1,4 @@
-# jobfinder
+# Job Finder
 
 A new Flutter project.
 
